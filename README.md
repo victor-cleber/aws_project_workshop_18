@@ -18,7 +18,7 @@ Project Workshop No. 18
 ## 🚀 THE CHALLENGE
 
 <p align="justify">The Magazine Upper plans to migrate its Odoo ERP from an on-premise environment to the Cloud. A big question is which Cloud is the best used and why?</p>
-<p align="justify">The company is currently facing availability issues due to power outages in its data centre and storage issues due to data growth.</p>
+<p align="justify">The company is currently facing availability issues due to power outages in its data centre and storage issues due to data growth. The quote for a new storage disk is around R$ 50.000,00</p>
 
 ## 🎲 CURRENT ARCHITECTURE
 <p align="justify">- The application is running on two virtual servers</p>
@@ -32,7 +32,7 @@ Project Workshop No. 18
   - Application data taking up 400 GB of storage
 
 - 600 users distributed across 30 stores
-- 5 stores in shopping malls
+- 5 stores are in shopping malls
 - All stores communicate via VPN
 
 
@@ -55,9 +55,6 @@ Project Workshop No. 18
 of the system
 - Storage:
   - Data growth is beyond the capacity of current hardware
-- Storage Cost:
-  The quote for a new storage disk is around R$50,000.00
-
 
 ## 📝 ITEMS TO BE EVALUATED
 [ ] Presentation - business vision</br>

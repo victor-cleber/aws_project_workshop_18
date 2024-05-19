@@ -16,7 +16,7 @@
 ## 🚀 O DESAFIO
 
 <p align="justify">A empresa Magazine Upper está planejando migrar seu ERP Odoo de um ambiente on-premise para a Cloud. Uma grande dúvida é qual a melhor cloud utilizada e porque.</p>
-<p align="justify">Atualmente, a empresa enfrenta problemas de disponibilidade devido a quedas de energia em seu datacenter e problemas de armazenamento devido ao crescimento dos dados.</p>
+<p align="justify">Atualmente, a empresa enfrenta problemas de disponibilidade devido a quedas de energia em seu datacenter e problemas de armazenamento devido ao crescimento dos dados. A cotação para um novo disco de storage está em torno de R$ 50.000,00</p>
 
 ## 🎲 ARQUITETURA ATUAL
 <p align="justify">- A aplicação está rodando em dois servidores virtuais</p>
@@ -30,7 +30,7 @@
   - Dados da aplicação ocupando 400 GB de armazenamento
 
 - 600 usuários distribuídos em 30 lojas
-- 5 lojas em shoppings
+- 5 lojas estão presentes em shoppings
 - Todas as lojas se comunicam por VPN
 
 
@@ -53,8 +53,6 @@
 do sistema
 - Armazenamento:
   - Crescimento dos dados está além da capacidade do hardware atual
-- Custo de Armazenamento:
-  - Cotação para um novo disco de storage está em torno de R$ 50.000,00
 
 
 ## 📝 ITENS A SEREM AVALIADOS
