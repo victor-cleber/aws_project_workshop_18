@@ -34,7 +34,7 @@
 - Todas as lojas se comunicam por VPN
 
 
-![plot](./diagrams/arquitetura_atual.jpeg)
+![plot](./diagrams/actual_architecture.JPG)
 
 ### 🎲 MÓDULOS UTILIZADOS
 - Ecommerce

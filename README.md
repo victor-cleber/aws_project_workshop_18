@@ -36,7 +36,7 @@ Project Workshop No. 18
 - All stores communicate via VPN
 
 
-![plot](./diagrams/arquitetura_atual.jpeg)
+![plot](./diagrams/actual_architecture.JPG)
 
 ### 🎲 ODDO MODULES
 - E-commerce
